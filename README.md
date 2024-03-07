@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MSc in Computer Science (Data Science) at Trinity College Dublin
 ----------------------------------------------------------------
 
-I am an aspiring data scientist who is currently pursuing my Master of Science degree in Computer Science (Data Science) at Trinity College Dublin. I have a Bachelor of Engineering degree in Information Technology with Distinction from Dwarkadas J. Sanghvi College of Engineering. I have professional experience as an intern at Sustainable Living Lab in Singapore and Lesmor Design Pvt Ltd in India, where I worked on exciting projects involving machine learning, computer vision, cloud computing, and mobile application development. I have also published a book chapter and filed a patent on Smart Baby Cradle for Infant Soothing and Monitoring. I have skills in Python, CPP, Java, SQL, Node.JS, NoSQL, OpenCV, JS, MongoDB, AWS Lambda, AWS IOT core, AWS S3, AWS DynamoDB, AWS API Gateway and AWS EC2.
+Hello, I'm Sahil Lunawat, a dedicated data science enthusiast currently pursuing my MSc in Computer Science at Trinity College Dublin. With a solid foundation in Information Technology from Dwarkadas J. Sanghvi College of Engineering, I'm focused on applying my skills to real-world challenges.
+
+Throughout my academic journey, I've interned at the Sustainable Living Lab in Singapore and Lesmor Design Pvt Ltd in India. These experiences have allowed me to contribute to diverse projects, including machine learning, computer vision, cloud computing, and mobile application development.
+
+Beyond academia, I've made contributions to the literary world with a published book chapter and explored innovation through a filed patent on a Smart Baby Cradle for Infant Soothing and Monitoring. My skill set includes proficiency in Python, CPP, Java, SQL, Node.JS, NoSQL, OpenCV, JS, MongoDB, and various AWS technologies.
+
+I'm passionate about the potential of data science and technology. Let's connect and explore opportunities together! 🌐✨
 
 * 🌍  I'm based in Dublin, Ireland
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sahil-lunawat/)
