@@ -13,10 +13,10 @@ Beyond academia, I've made contributions to the literary world with a published 
 I'm passionate about the potential of data science and technology. Let's connect and explore opportunities together! 🌐✨
 
 * 🌍  I'm based in Dublin, Ireland
-* 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sahil-lunawat/)
+* 🖥️  Connect with me on [LinkedIn](http://www.linkedin.com/in/sahil-lunawat/)
 * ✉️  You can contact me at [lunawats@tcd.ie](mailto:lunawats@tcd.ie)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Open source AI Projects or Web dev projects
+* 🤝  I'm open to collaborating on Open source AI Projects
 
 ### Skills
 
@@ -34,6 +34,6 @@ I'm passionate about the potential of data science and technology. Let's connect
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Sahil3201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil3201&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Sahil3201" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil3201&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
-<a href="https://github.com/Sahil3201" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil3201&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/Sahil3201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil3201&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
