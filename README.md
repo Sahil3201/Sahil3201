@@ -4,19 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MSc in Computer Science (Data Science) at Trinity College Dublin
 ----------------------------------------------------------------
 
-Hello, I'm Sahil Lunawat, a dedicated data science enthusiast currently pursuing my MSc in Computer Science at Trinity College Dublin. With a solid foundation in Information Technology from Dwarkadas J. Sanghvi College of Engineering, I'm focused on applying my skills to real-world challenges.
-
-Throughout my academic journey, I've interned at the Sustainable Living Lab in Singapore and Lesmor Design Pvt Ltd in India. These experiences have allowed me to contribute to diverse projects, including machine learning, computer vision, cloud computing, and mobile application development.
-
-Beyond academia, I've made contributions to the literary world with a published book chapter and explored innovation through a filed patent on a Smart Baby Cradle for Infant Soothing and Monitoring. My skill set includes proficiency in Python, CPP, Java, SQL, Node.JS, NoSQL, OpenCV, JS, MongoDB, and various AWS technologies.
+Highly skilled Software Development Engineer with experience in full-stack development, cloud solutions, and machine learning integration. Proficient in building scalable web and mobile applications using technologies like ReactJS, NodeJS, Django, and AWS. Demonstrated success in optimizing application performance, automating testing processes, and managing cloud resources efficiently. Adept at collaborating with cross-functional teams and leading projects to successful delivery. Holds a distinction in MSc Computer Science (Data Science) from Trinity College Dublin, with a strong foundation in software engineering and data science.
 
 I'm passionate about the potential of data science and technology. Let's connect and explore opportunities together! 🌐✨
 
 * 🌍  I'm based in Dublin, Ireland
 * 🖥️  Connect with me on [LinkedIn](http://www.linkedin.com/in/sahil-lunawat/)
 * ✉️  You can contact me at [lunawats@tcd.ie](mailto:lunawats@tcd.ie)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Open source AI Projects
+* 🤝  I'm open to collaborating on Open source Projects
 
 ### Skills
 
@@ -30,10 +25,11 @@ I'm passionate about the potential of data science and technology. Let's connect
 
 <p align="left"> <a href="https://www.github.com/Sahil3201" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sahil-lunawat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
+[//]: # (Comment)
+[//]: # (Comment ### Badges)
 
-<b>My GitHub Stats</b>
+[//]: # (Comment <b>My GitHub Stats</b>)
 
-<a href="https://github.com/Sahil3201" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil3201&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
+[//]: # (Comment <a href="https://github.com/Sahil3201" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil3201&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>)
 
-<a href="http://www.github.com/Sahil3201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil3201&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+[//]: # (Comment <a href="http://www.github.com/Sahil3201"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil3201&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>)
