@@ -1,12 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sahil Lunawat
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sahil Lunawat
 =====================================================================================================================================
 
-MSc in Computer Science (Data Science) at Trinity College Dublin
+Dell Technologies | MSc in Computer Science (Data Science) at Trinity College Dublin
 ----------------------------------------------------------------
 
-Highly skilled Software Development Engineer with experience in full-stack development, cloud solutions, and machine learning integration. Proficient in building scalable web and mobile applications using technologies like ReactJS, NodeJS, Django, and AWS. Demonstrated success in optimizing application performance, automating testing processes, and managing cloud resources efficiently. Adept at collaborating with cross-functional teams and leading projects to successful delivery. Holds a distinction in MSc Computer Science (Data Science) from Trinity College Dublin, with a strong foundation in software engineering and data science.
+Highly skilled Software Engineer currently working at Dell Technologies, with hands-on experience in full-stack development, cloud solutions, and machine learning integration. Proficient in building scalable web and mobile applications using technologies like ReactJS, NodeJS, Django, and AWS. Proven track record in optimizing application performance, automating workflows, and managing cloud infrastructure efficiently.
 
-I'm passionate about the potential of data science and technology. Let's connect and explore opportunities together! 🌐✨
+Holds a distinction in MSc Computer Science (Data Science) from Trinity College Dublin, with a strong foundation in both software engineering and data science. Adept at collaborating with cross-functional teams and contributing to high-impact, innovative solutions.
+
+I'm passionate about building intelligent systems that solve real-world problems. Let’s connect and explore opportunities together! 🌐✨
 
 * 🌍  I'm based in Dublin, Ireland
 * 🖥️  Connect with me on [LinkedIn](http://www.linkedin.com/in/sahil-lunawat/)
